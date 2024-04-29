@@ -102,6 +102,17 @@
       "label": "Share Canvas"
     },
     {
+      "id": "5a2b75c04bd54740",
+      "type": "group",
+      "sideRatio": 1.7777777777777777,
+      "isStartNode": true,
+      "x": -1395,
+      "y": -297,
+      "width": 1200,
+      "height": 675,
+      "label": "Overview"
+    },
+    {
       "id": "a439153f27eb5f9c",
       "type": "group",
       "x": -1043,
@@ -118,6 +129,15 @@
       "width": 300,
       "height": 600,
       "label": "Sửa đổi"
+    },
+    {
+      "id": "ab05f049066b4d39",
+      "type": "group",
+      "x": -1119,
+      "y": -82,
+      "width": 608,
+      "height": 246,
+      "label": "Visual Notes"
     },
     {
       "id": "09ecf68377a39dbc",
@@ -228,24 +248,152 @@
       "label": "Tạo thẻ"
     },
     {
-      "id": "5a2b75c04bd54740",
-      "type": "group",
-      "sideRatio": 1.7777777777777777,
-      "isStartNode": true,
-      "x": -1395,
-      "y": -297,
-      "width": 1200,
-      "height": 675,
-      "label": "Overview"
+      "id": "552b83f5c86b623e",
+      "type": "text",
+      "text": "Trang Web",
+      "x": -305,
+      "y": 925,
+      "width": 254,
+      "height": 58,
+      "color": "6"
     },
     {
-      "id": "ab05f049066b4d39",
-      "type": "group",
-      "x": -1119,
-      "y": -82,
-      "width": 608,
-      "height": 246,
-      "label": "Visual Notes"
+      "id": "4df1fa5773e00ff1",
+      "type": "text",
+      "text": "Nhóm",
+      "x": 12,
+      "y": 925,
+      "width": 254,
+      "height": 58,
+      "color": "#0279d4"
+    },
+    {
+      "id": "7f4291b4f3cfedbb",
+      "type": "text",
+      "text": "Mũi tên nghịch ← ",
+      "x": 329,
+      "y": 1169,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "055f43c970471fe0",
+      "type": "text",
+      "text": "Mũi tên 2 chiều ←→",
+      "x": 329,
+      "y": 1246,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "5b9b3c5e2a3600a9",
+      "type": "text",
+      "text": "Đường kẻ ko chiều ",
+      "x": 329,
+      "y": 1323,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "2398e4baad36e6d7",
+      "type": "text",
+      "text": "Ghi chú có sẵn",
+      "x": -947,
+      "y": 1111,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "ef12da2a884717a9",
+      "type": "text",
+      "text": "Kích thước mặc định",
+      "x": -1292,
+      "y": 1102,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "2168c95b0c3196b7",
+      "type": "text",
+      "text": "Tạo mới",
+      "x": -947,
+      "y": 1188,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "ee2237ab477abc65",
+      "type": "text",
+      "text": "Kích thước tuỳ chọn",
+      "x": -1292,
+      "y": 1179,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "ebc54ca7a4269f21",
+      "type": "text",
+      "text": "Media",
+      "x": -621,
+      "y": 925,
+      "width": 254,
+      "height": 58,
+      "color": "2"
+    },
+    {
+      "id": "0fd0dc7f11778d13",
+      "type": "text",
+      "text": "Mũi tên thuận →",
+      "x": 329,
+      "y": 1092,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "30889a87fcdab343",
+      "type": "text",
+      "text": "Kết nối",
+      "x": 329,
+      "y": 925,
+      "width": 254,
+      "height": 58,
+      "color": "3"
+    },
+    {
+      "id": "447211c3feb64d16",
+      "type": "text",
+      "text": "Hình ảnh",
+      "x": -622,
+      "y": 1111,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "d7fd53eb8024848c",
+      "type": "text",
+      "text": "Video",
+      "x": -622,
+      "y": 1265,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "b17b2ddde1ec6ea3",
+      "type": "text",
+      "text": "Âm thanh",
+      "x": -622,
+      "y": 1188,
+      "width": 254,
+      "height": 58
+    },
+    {
+      "id": "353d78c7de4a6ce9",
+      "type": "text",
+      "text": "**Tạo / Chèn**",
+      "x": -622,
+      "y": 680,
+      "width": 254,
+      "height": 58
     },
     {
       "id": "30543d30a9ce5082",
@@ -269,6 +417,189 @@
       "height": 206
     },
     {
+      "id": "5debc120c4b72392",
+      "type": "text",
+      "text": "Presentation",
+      "x": 2700,
+      "y": 2273,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "607fcf83673de2db",
+      "type": "text",
+      "text": " Tạo node cùng cấp: Enter",
+      "x": 3140,
+      "y": 2273,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "32cf3947a47fb9da",
+      "type": "text",
+      "text": "Thẻ (card)",
+      "x": -1255,
+      "y": 925,
+      "width": 254,
+      "height": 58,
+      "color": "5"
+    },
+    {
+      "id": "4aded663e0f191de",
+      "type": "text",
+      "text": "Ghi chú",
+      "x": -938,
+      "y": 925,
+      "width": 254,
+      "height": 58,
+      "color": "4"
+    },
+    {
+      "id": "efb1bcc17126a461",
+      "type": "text",
+      "text": "Chia nhỏ (Encapsulation)",
+      "x": 2700,
+      "y": 2355,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "83ef90ecb5866807",
+      "type": "text",
+      "text": "Tổng hợp (Portals)",
+      "x": 2700,
+      "y": 2440,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "4742b48dbdc2da47",
+      "type": "text",
+      "text": "Export as Image: ⌘ + ⇧ + `E`",
+      "x": 2698,
+      "y": 3266,
+      "width": 326,
+      "height": 50
+    },
+    {
+      "id": "087410e62e42bd90",
+      "type": "text",
+      "text": "Start Presentation: ⇧ + `F5`",
+      "x": 2698,
+      "y": 3417,
+      "width": 326,
+      "height": 50
+    },
+    {
+      "id": "3e2aed64aa76ff58",
+      "type": "text",
+      "text": "Jump to group: ⌘ + `J`",
+      "x": 2698,
+      "y": 3346,
+      "width": 326,
+      "height": 50
+    },
+    {
+      "id": "83ea2d05df8ad775",
+      "type": "file",
+      "file": "src/1. Open Core Plugins.png",
+      "x": 2720,
+      "y": 4080,
+      "width": 400,
+      "height": 308
+    },
+    {
+      "id": "97d972ed66600dfd",
+      "type": "file",
+      "file": "src/3. Find your file.png",
+      "x": 2720,
+      "y": 4447,
+      "width": 400,
+      "height": 148
+    },
+    {
+      "id": "746886976aba09d1",
+      "type": "file",
+      "file": "src/4. Copy content.png",
+      "x": 3360,
+      "y": 4440,
+      "width": 400,
+      "height": 309
+    },
+    {
+      "id": "7824a4ef84e080a7",
+      "type": "file",
+      "file": "src/2. View versions.png",
+      "x": 3360,
+      "y": 4080,
+      "width": 399,
+      "height": 308
+    },
+    {
+      "id": "53de79f03fd1fadd",
+      "type": "text",
+      "text": "1. Mở cài đặt: ⌘ +` ,` \n2. Tìm mục Hotkeys\n3. Gán phím tắt",
+      "x": 2698,
+      "y": 3131,
+      "width": 326,
+      "height": 115
+    },
+    {
+      "id": "06bfd6545e0831d6",
+      "type": "text",
+      "text": "Tạo bản sao (Clone):\n`Alt` hoặc ⌥ + `click & kéo`",
+      "x": 3118,
+      "y": 3211,
+      "width": 326,
+      "height": 80
+    },
+    {
+      "id": "22ab68120a0b7941",
+      "type": "text",
+      "text": "Di chuyển theo chiều cố định:\n⇧ + `click & kéo`",
+      "x": 3118,
+      "y": 3403,
+      "width": 326,
+      "height": 80
+    },
+    {
+      "id": "f86117d9757313c6",
+      "type": "text",
+      "text": "Xoá thẻ: ⌫, `delete`",
+      "x": 3120,
+      "y": 3316,
+      "width": 326,
+      "height": 60
+    },
+    {
+      "id": "1f7d414967fa335e",
+      "type": "text",
+      "text": "Quay về: ⌘ + ⌥ + `←`",
+      "x": 3120,
+      "y": 3136,
+      "width": 326,
+      "height": 50
+    },
+    {
+      "id": "3fa27c04dd4e02ec",
+      "type": "file",
+      "file": "src/Obsidian Canvas Shortcuts.png",
+      "x": 3518,
+      "y": 3105,
+      "width": 631,
+      "height": 595
+    },
+    {
+      "id": "cc306679f4f9aeee",
+      "type": "text",
+      "text": "**Phím tắt**",
+      "x": 2938,
+      "y": 2931,
+      "width": 250,
+      "height": 60,
+      "color": "2"
+    },
+    {
       "id": "4a28f2f5bb3b726d",
       "type": "text",
       "text": "Viewport",
@@ -276,6 +607,72 @@
       "y": 2220,
       "width": 254,
       "height": 58
+    },
+    {
+      "id": "a8af03f6ffd29721",
+      "type": "text",
+      "text": "```dataview\nLIST WITHOUT ID length(rows) + \" pages of type \" + key\nGROUP BY status\n```",
+      "x": 2258,
+      "y": 2174,
+      "width": 380,
+      "height": 241
+    },
+    {
+      "id": "83c2643ba03d68d9",
+      "type": "text",
+      "text": "Tạo nhánh con: Tab",
+      "x": 3140,
+      "y": 2174,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "3b0f2b0364cd7dca",
+      "type": "text",
+      "text": "**Dataview**",
+      "x": 2258,
+      "y": 2060,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "65c06daa9d225042",
+      "type": "text",
+      "text": "Flowchart (shapes & styles)",
+      "shape": "parallelogram",
+      "x": 2700,
+      "y": 2197,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "0eb7ffefd0c6ae67",
+      "type": "text",
+      "text": "**Advanced Canvas**",
+      "borderStyle": "dashed",
+      "x": 2700,
+      "y": 2060,
+      "width": 380,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "0d4be76462189f81",
+      "type": "text",
+      "text": "**Canvas Mindmap**",
+      "x": 3140,
+      "y": 2060,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "a1a6609bd9053a82",
+      "type": "text",
+      "text": "Kết hợp Plugin",
+      "x": 2660,
+      "y": 1860,
+      "width": 461,
+      "height": 51
     },
     {
       "id": "5b43b3eb3b651d25",
@@ -341,6 +738,15 @@
       "height": 58
     },
     {
+      "id": "4419895b2b2db5fe",
+      "type": "text",
+      "text": "**Chia sẻ**",
+      "x": 1118,
+      "y": 1880,
+      "width": 254,
+      "height": 68
+    },
+    {
       "id": "2ad9f17ed71778b5",
       "type": "text",
       "text": "Màu sắc",
@@ -404,15 +810,6 @@
       "height": 68
     },
     {
-      "id": "4419895b2b2db5fe",
-      "type": "text",
-      "text": "**Chia sẻ**",
-      "x": 1118,
-      "y": 1880,
-      "width": 254,
-      "height": 68
-    },
-    {
       "id": "f2f47c54289b6ebc",
       "type": "text",
       "text": "Delete",
@@ -449,254 +846,6 @@
       "height": 60
     },
     {
-      "id": "53de79f03fd1fadd",
-      "type": "text",
-      "text": "1. Mở cài đặt: ⌘ +` ,` \n2. Tìm mục Hotkeys\n3. Gán phím tắt",
-      "x": 2698,
-      "y": 3131,
-      "width": 326,
-      "height": 115
-    },
-    {
-      "id": "06bfd6545e0831d6",
-      "type": "text",
-      "text": "Tạo bản sao (Clone):\n`Alt` hoặc ⌥ + `click & kéo`",
-      "x": 3118,
-      "y": 3211,
-      "width": 326,
-      "height": 80
-    },
-    {
-      "id": "5debc120c4b72392",
-      "type": "text",
-      "text": "Presentation",
-      "x": 2700,
-      "y": 2273,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "efb1bcc17126a461",
-      "type": "text",
-      "text": "Chia nhỏ (Encapsulation)",
-      "x": 2700,
-      "y": 2355,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "607fcf83673de2db",
-      "type": "text",
-      "text": " Tạo node cùng cấp: Enter",
-      "x": 3140,
-      "y": 2273,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "83ef90ecb5866807",
-      "type": "text",
-      "text": "Tổng hợp (Portals)",
-      "x": 2700,
-      "y": 2440,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "4742b48dbdc2da47",
-      "type": "text",
-      "text": "Export as Image: ⌘ + ⇧ + `E`",
-      "x": 2698,
-      "y": 3266,
-      "width": 326,
-      "height": 50
-    },
-    {
-      "id": "22ab68120a0b7941",
-      "type": "text",
-      "text": "Di chuyển theo chiều cố định:\n⇧ + `click & kéo`",
-      "x": 3118,
-      "y": 3403,
-      "width": 326,
-      "height": 80
-    },
-    {
-      "id": "087410e62e42bd90",
-      "type": "text",
-      "text": "Start Presentation: ⇧ + `F5`",
-      "x": 2698,
-      "y": 3417,
-      "width": 326,
-      "height": 50
-    },
-    {
-      "id": "3e2aed64aa76ff58",
-      "type": "text",
-      "text": "Jump to group: ⌘ + `J`",
-      "x": 2698,
-      "y": 3346,
-      "width": 326,
-      "height": 50
-    },
-    {
-      "id": "f86117d9757313c6",
-      "type": "text",
-      "text": "Xoá thẻ: ⌫, `delete`",
-      "x": 3120,
-      "y": 3316,
-      "width": 326,
-      "height": 60
-    },
-    {
-      "id": "83ea2d05df8ad775",
-      "type": "file",
-      "file": "src/1. Open Core Plugins.png",
-      "x": 2720,
-      "y": 4080,
-      "width": 400,
-      "height": 308
-    },
-    {
-      "id": "97d972ed66600dfd",
-      "type": "file",
-      "file": "src/3. Find your file.png",
-      "x": 2720,
-      "y": 4447,
-      "width": 400,
-      "height": 148
-    },
-    {
-      "id": "746886976aba09d1",
-      "type": "file",
-      "file": "src/4. Copy content.png",
-      "x": 3360,
-      "y": 4440,
-      "width": 400,
-      "height": 309
-    },
-    {
-      "id": "7824a4ef84e080a7",
-      "type": "file",
-      "file": "src/2. View versions.png",
-      "x": 3360,
-      "y": 4080,
-      "width": 399,
-      "height": 308
-    },
-    {
-      "id": "1f7d414967fa335e",
-      "type": "text",
-      "text": "Quay về: ⌘ + ⌥ + `←`",
-      "x": 3120,
-      "y": 3136,
-      "width": 326,
-      "height": 50
-    },
-    {
-      "id": "3fa27c04dd4e02ec",
-      "type": "file",
-      "file": "src/Obsidian Canvas Shortcuts.png",
-      "x": 3518,
-      "y": 3105,
-      "width": 631,
-      "height": 595
-    },
-    {
-      "id": "cc306679f4f9aeee",
-      "type": "text",
-      "text": "**Phím tắt**",
-      "x": 2938,
-      "y": 2931,
-      "width": 250,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "a8af03f6ffd29721",
-      "type": "text",
-      "text": "```dataview\nLIST WITHOUT ID length(rows) + \" pages of type \" + key\nGROUP BY status\n```",
-      "x": 2258,
-      "y": 2174,
-      "width": 380,
-      "height": 241
-    },
-    {
-      "id": "83c2643ba03d68d9",
-      "type": "text",
-      "text": "Tạo nhánh con: Tab",
-      "x": 3140,
-      "y": 2174,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "3b0f2b0364cd7dca",
-      "type": "text",
-      "text": "**Dataview**",
-      "x": 2258,
-      "y": 2060,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "65c06daa9d225042",
-      "type": "text",
-      "text": "Flowchart (shapes & styles)",
-      "shape": "parallelogram",
-      "x": 2700,
-      "y": 2197,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "87fa33b90465627e",
-      "type": "text",
-      "text": "Theo chiều ngang",
-      "x": -864,
-      "y": 2120,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "2d99c267dbc64524",
-      "type": "text",
-      "text": "**Điều hướng**",
-      "x": -704,
-      "y": 1860,
-      "width": 250,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "0eb7ffefd0c6ae67",
-      "type": "text",
-      "text": "**Advanced Canvas**",
-      "borderStyle": "dashed",
-      "x": 2700,
-      "y": 2060,
-      "width": 380,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "0d4be76462189f81",
-      "type": "text",
-      "text": "**Canvas Mindmap**",
-      "x": 3140,
-      "y": 2060,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "a1a6609bd9053a82",
-      "type": "text",
-      "text": "Kết hợp Plugin",
-      "x": 2660,
-      "y": 1860,
-      "width": 461,
-      "height": 51
-    },
-    {
       "id": "c5dbbfec8958d057",
       "type": "file",
       "file": "src/Manual selection.png",
@@ -724,6 +873,15 @@
       "height": 88
     },
     {
+      "id": "7ba711c517ff288a",
+      "type": "file",
+      "file": "src/Range selection.png",
+      "x": -503,
+      "y": 3010,
+      "width": 282,
+      "height": 368
+    },
+    {
       "id": "e70a8d19363f9948",
       "type": "text",
       "text": "Kéo thả tuỳ ý",
@@ -738,24 +896,6 @@
       "text": "Zoom Out",
       "x": -1193,
       "y": 2200,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "7ba711c517ff288a",
-      "type": "file",
-      "file": "src/Range selection.png",
-      "x": -503,
-      "y": 3010,
-      "width": 282,
-      "height": 368
-    },
-    {
-      "id": "011148e37d534420",
-      "type": "text",
-      "text": "Zoom In",
-      "x": -1193,
-      "y": 2120,
       "width": 250,
       "height": 60
     },
@@ -814,6 +954,34 @@
       "height": 60
     },
     {
+      "id": "87fa33b90465627e",
+      "type": "text",
+      "text": "Theo chiều ngang",
+      "x": -864,
+      "y": 2120,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2d99c267dbc64524",
+      "type": "text",
+      "text": "**Điều hướng**",
+      "x": -704,
+      "y": 1860,
+      "width": 250,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "011148e37d534420",
+      "type": "text",
+      "text": "Zoom In",
+      "x": -1193,
+      "y": 2120,
+      "width": 250,
+      "height": 60
+    },
+    {
       "id": "c65f0f81631553bc",
       "type": "text",
       "text": "Redo",
@@ -830,174 +998,6 @@
       "y": 2440,
       "width": 250,
       "height": 60
-    },
-    {
-      "id": "ebc54ca7a4269f21",
-      "type": "text",
-      "text": "Media",
-      "x": -621,
-      "y": 925,
-      "width": 254,
-      "height": 58,
-      "color": "2"
-    },
-    {
-      "id": "552b83f5c86b623e",
-      "type": "text",
-      "text": "Trang Web",
-      "x": -305,
-      "y": 925,
-      "width": 254,
-      "height": 58,
-      "color": "6"
-    },
-    {
-      "id": "4df1fa5773e00ff1",
-      "type": "text",
-      "text": "Nhóm",
-      "x": 12,
-      "y": 925,
-      "width": 254,
-      "height": 58,
-      "color": "#0279d4"
-    },
-    {
-      "id": "7f4291b4f3cfedbb",
-      "type": "text",
-      "text": "Mũi tên nghịch ← ",
-      "x": 329,
-      "y": 1169,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "055f43c970471fe0",
-      "type": "text",
-      "text": "Mũi tên 2 chiều ←→",
-      "x": 329,
-      "y": 1246,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "5b9b3c5e2a3600a9",
-      "type": "text",
-      "text": "Đường kẻ ko chiều ",
-      "x": 329,
-      "y": 1323,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "0fd0dc7f11778d13",
-      "type": "text",
-      "text": "Mũi tên thuận →",
-      "x": 329,
-      "y": 1092,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "30889a87fcdab343",
-      "type": "text",
-      "text": "Kết nối",
-      "x": 329,
-      "y": 925,
-      "width": 254,
-      "height": 58,
-      "color": "3"
-    },
-    {
-      "id": "447211c3feb64d16",
-      "type": "text",
-      "text": "Hình ảnh",
-      "x": -622,
-      "y": 1111,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "d7fd53eb8024848c",
-      "type": "text",
-      "text": "Video",
-      "x": -622,
-      "y": 1265,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "b17b2ddde1ec6ea3",
-      "type": "text",
-      "text": "Âm thanh",
-      "x": -622,
-      "y": 1188,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "2398e4baad36e6d7",
-      "type": "text",
-      "text": "Ghi chú có sẵn",
-      "x": -947,
-      "y": 1111,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "ef12da2a884717a9",
-      "type": "text",
-      "text": "Kích thước mặc định",
-      "x": -1292,
-      "y": 1102,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "2168c95b0c3196b7",
-      "type": "text",
-      "text": "Tạo mới",
-      "x": -947,
-      "y": 1188,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "ee2237ab477abc65",
-      "type": "text",
-      "text": "Kích thước tuỳ chọn",
-      "x": -1292,
-      "y": 1179,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "353d78c7de4a6ce9",
-      "type": "text",
-      "text": "**Tạo / Chèn**",
-      "x": -622,
-      "y": 680,
-      "width": 254,
-      "height": 58
-    },
-    {
-      "id": "32cf3947a47fb9da",
-      "type": "text",
-      "text": "Thẻ (card)",
-      "x": -1255,
-      "y": 925,
-      "width": 254,
-      "height": 58,
-      "color": "5"
-    },
-    {
-      "id": "4aded663e0f191de",
-      "type": "text",
-      "text": "Ghi chú",
-      "x": -938,
-      "y": 925,
-      "width": 254,
-      "height": 58,
-      "color": "4"
     }
   ],
   "edges": [
