@@ -18,8 +18,9 @@ Hướng dẫn Obsidian Canvas - Tài liệu minh hoạ cho tập Video
  Để sử dụng các phím tắt mình chia sẻ và thực tế sử dụng, bạn có thể làm như sau:
  
 1. Tải Github repo (kho chứa mã nguồn) này về máy
+![[Pasted image 20240429090534.png]]
 2. Tìm đến thư mục `.obsidian` và bên trong này có file `hotkeys.json`
-
+![[Pasted image 20240429090820.png]]
 # Minh hoạ
 Canvas minh hoạ trong video được đính kèm [tại đây](./Obsidian%20Canvas%20101.canvas)
 
